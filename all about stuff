@@ -46,24 +46,40 @@
                 <td>fox
             </tr>
             <tr>
+                <td>6
+                <td>hedgehog
+            </tr>
+            <tr>
                 <td>7
-                <td>
+                <td>zebra
+            </tr>
+            <tr>
+                <td>7
+                <td>donkey
             </tr>
             <tr>
                 <td>8
-                <td>
+                <td>cheetah
             </tr>
-                <tr>
+            <tr>
+                <td>8
+                <td>giraffe
+            </tr>
+            <tr>
                 <td>9
-                <td>
+                <td>lion
+            </tr>
+            <tr>
+                <td>9
+                <td>gorilla
             </tr>
                 <tr>
                 <td>10
-                <td>
+                <td>bear
             </tr>
                 <tr>
-                <td>11
-                <td>
+                <td>10
+                <td>cobra
             </tr>
             </tbody>
             </table>
