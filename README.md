@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -40,11 +39,11 @@
             </tr>
             <tr>
                 <td>5
-                <td>
+                <td>deer
             </tr>
             <tr>
                 <td>6
-                <td>
+                <td>fox
             </tr>
             <tr>
                 <td>7
@@ -54,11 +53,21 @@
                 <td>8
                 <td>
             </tr>
+                <tr>
+                <td>9
+                <td>
+            </tr>
+                <tr>
+                <td>10
+                <td>
+            </tr>
+                <tr>
+                <td>11
+                <td>
+            </tr>
             </tbody>
             </table>
         <h2>ocean animals</h2>
-        
         <h2>arctic animals</h2>
-        
     </body>
 </html>
